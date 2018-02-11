@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>NanoRPC</RootNamespace>
+    <Authors>Michael Brandon Huddle</Authors>
+    <Company />
+    <Description>.NET library for communicating with the Nano Cryptocurrency node through JsonRPC</Description>
+    <Copyright>BSD 2-Clause License, Copyright 2018, Michael Brandon Huddle</Copyright>
+    <PackageLicenseUrl>https://github.com/brandonhuddle/NanoRPC.NET/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/brandonhuddle/NanoRPC.NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/brandonhuddle/NanoRPC.NET</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
